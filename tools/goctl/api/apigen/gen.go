@@ -19,6 +19,7 @@ var apiTemplate string
 
 var (
 	// VarStringOutput describes the output.
+	// api 模版文件名
 	VarStringOutput string
 	// VarStringHome describes the goctl home.
 	VarStringHome string
